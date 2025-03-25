@@ -1,0 +1,1 @@
+/home/satvik64/.zshrc
